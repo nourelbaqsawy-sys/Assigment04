@@ -1,0 +1,15 @@
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\bin\Debug\net10.0\assigment3.exe
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\bin\Debug\net10.0\assigment3.deps.json
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\bin\Debug\net10.0\assigment3.runtimeconfig.json
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\bin\Debug\net10.0\assigment3.dll
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\bin\Debug\net10.0\assigment3.pdb
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.AssemblyInfoInputs.cache
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.AssemblyInfo.cs
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.csproj.CoreCompileInputs.cache
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.dll
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\refint\assigment3.dll
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.pdb
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.genruntimeconfig.cache
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\ref\assigment3.dll
+C:\Users\AdminOS\OneDrive\Desktop\Route\assigment3\assigment3\obj\Debug\net10.0\assigment3.csproj.Up2Date
